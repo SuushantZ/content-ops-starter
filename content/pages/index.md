@@ -49,10 +49,13 @@ sections:
       - type: FeaturedItem
         title: Extensive Technical Expertise
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          With 14 years of hands-on experience in software development, I bring
+          deep expertise in technologies like Java, Python, cloud platforms
+          (AWS, Azure), and microservices architecture. My strong technical
+          foundation allows me to deliver high-quality solutions efficiently,
+          solving complex challenges that drive business outcomes.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
