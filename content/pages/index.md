@@ -8,10 +8,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Associate Consultant
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ```
+
+      Seasoned software development professional with <b>14 years of
+      experience</b> in designing, developing, and delivering high-quality
+      software solutions. Proven expertise in leading cross-functional teams,
+      managing full software development lifecycle (SDLC), and driving projects
+      to successful completion. Seeking a leadership role to apply technical,
+      managerial, and strategic skills to drive innovation and growth.
+
+
+
+      ```
+
     actions:
       - label: Get started
         altText: ''
