@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Education
 slug: /education
 numOfPostsPerPage: 12
 enableSearch: true
