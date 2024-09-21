@@ -16,16 +16,7 @@ sections:
       completion. Seeking a leadership role to apply technical, managerial, and
       strategic skills to drive innovation and growth.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
