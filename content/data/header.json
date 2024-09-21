@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "PROJECTS",
-            "altText": "",
+            "altText": "PROJECTS",
             "url": "/Projects",
             "showIcon": false,
             "icon": "arrowRight",
