@@ -64,7 +64,7 @@
         {
             "type": "Link",
             "label": "SKILLS",
-            "altText": "",
+            "altText": "SKILLS",
             "url": "/skills",
             "showIcon": false,
             "icon": "arrowRight",
