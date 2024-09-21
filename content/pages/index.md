@@ -9,18 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Associate Consultant
     text: >+
-      ```
-
-      Seasoned software development professional with <b>14 years of
-      experience</b> in designing, developing, and delivering high-quality
-      software solutions. Proven expertise in leading cross-functional teams,
-      managing full software development lifecycle (SDLC), and driving projects
-      to successful completion. Seeking a leadership role to apply technical,
-      managerial, and strategic skills to drive innovation and growth.
-
-
-
-      ```
+      Seasoned software development professional with **14 years of experience**
+      in designing, developing, and delivering high-quality software solutions.
+      Proven expertise in leading cross-functional teams, managing full software
+      development lifecycle **(SDLC)**, and driving projects to successful
+      completion. Seeking a leadership role to apply technical, managerial, and
+      strategic skills to drive innovation and growth.
 
     actions:
       - label: Get started
