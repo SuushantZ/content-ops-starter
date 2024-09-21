@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog
+slug: /education
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
