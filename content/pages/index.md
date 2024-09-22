@@ -191,10 +191,12 @@ sections:
       - type: FeaturedItem
         title: Adaptability & Problem Solving
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Throughout my career, I’ve worked in fast-paced environments where
+          change is constant. My ability to quickly adapt to new technologies,
+          frameworks, and industry standards—combined with my problem-solving
+          mindset—means I’m equipped to tackle both foreseeable and unforeseen
+          challenges effectively.
         image:
           type: ImageBlock
           altText: Placeholder text
