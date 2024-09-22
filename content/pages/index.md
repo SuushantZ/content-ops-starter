@@ -105,10 +105,13 @@ sections:
         type: FeaturedItem
       - title: Strategic Project Management
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          I have a track record of managing full project lifecycles, from
+          planning and requirements gathering to deployment and post-launch
+          support. My expertise in Agile methodologies ensures that I can lead
+          iterative development processes while maintaining flexibility and
+          responsiveness to business needs.
         image:
           altText: Featured icon three
           elementId: ''
