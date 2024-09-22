@@ -44,42 +44,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: 'Hi, I''m Sushant Zanzane'
-      color: text-dark
-      type: TitleBlock
-    subtitle: Associate Consultant
-    text: >+
-      Seasoned software development professional with **14 years of experience**
-      in designing, developing, and delivering high-quality software solutions.
-      Proven expertise in leading cross-functional teams, managing full software
-      development lifecycle **(SDLC)**, and driving projects to successful
-      completion. Seeking a leadership role to apply technical, managerial, and
-      strategic skills to drive innovation and growth.
-
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Tata Consultancy Services
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-      text:
-        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
