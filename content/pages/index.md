@@ -79,10 +79,12 @@ sections:
               borderRadius: x-large
       - title: Proven Leadership Skills
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Having led and mentored development teams for several years, I
+          understand how to balance project management with people management.
+          I’ve successfully led cross-functional teams, fostering collaboration
+          and driving projects to timely completion, all while ensuring a
+          positive team culture that encourages growth and productivity.
         image:
           altText: Featured icon two
           elementId: ''
