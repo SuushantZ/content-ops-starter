@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: 'Hi, I''m Sushant Zanzane'
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Associate Consultant
         text: >
           Seasoned software development professional with **14 years of
           experience** in designing, developing, and delivering high-quality
