@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Hi, I''m Sushant Zanzane'
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >
           Seasoned software development professional with **14 years of
