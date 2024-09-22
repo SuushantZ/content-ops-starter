@@ -132,10 +132,13 @@ sections:
       - type: FeaturedItem
         title: Business-Driven Approach
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          I don’t just code—I understand how software solutions align with the
+          company’s strategic goals. My focus on delivering business value has
+          consistently resulted in efficient, scalable, and user-friendly
+          software that directly impacts a company's bottom line, improves
+          customer satisfaction, and reduces operational costs.
         image:
           type: ImageBlock
           altText: Placeholder text
