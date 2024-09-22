@@ -162,10 +162,12 @@ sections:
       - type: FeaturedItem
         title: Continuous Improvement & Innovation
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I have a keen interest in optimizing processes, whether through
+          automating workflows, implementing CI/CD pipelines, or adopting the
+          latest tech trends. I constantly seek out ways to improve
+          productivity, performance, and scalability, ensuring the company
+          remains competitive in the ever-evolving tech landscape.
         image:
           type: ImageBlock
           altText: Placeholder text
