@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: 'Hi, I''m Sushant Zanzane'
         tagline: ''
-        subtitle: Associate Consultant
+        subtitle: Associate Consultant / Team Lead
         text: >
           Seasoned software development professional with **14 years of
           experience** in designing, developing, and delivering high-quality
