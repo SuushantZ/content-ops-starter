@@ -3,7 +3,7 @@ title: About Me
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 'Hi, I''m Sushant Zanzane'
