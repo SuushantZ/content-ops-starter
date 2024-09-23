@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/Screenshot_20240905_095148_Gmail.jpg
+      url: /images/Con_Master.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
