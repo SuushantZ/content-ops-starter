@@ -399,10 +399,12 @@ sections:
       - type: FeaturedItem
         title: Results-Driven
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          At the end of the day, I measure success by what gets delivered and
+          the impact it has. I’m constantly asking, "What’s the outcome?" and
+          aligning my actions with the business objectives to ensure that my
+          work has a tangible, positive effect on the company’s bottom line.
         image:
           type: ImageBlock
           altText: Placeholder text
