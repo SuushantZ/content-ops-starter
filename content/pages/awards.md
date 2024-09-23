@@ -5,32 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contextual Master Award
-      color: text-dark
-    subtitle: Tata Consultancy Services
-    text: |
-      You are an inspiring role model to your colleagues.
-      Thank you for your dedication and commitment.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/Con_MasterNew.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Generic section with a video
       color: text-dark
       styles:
