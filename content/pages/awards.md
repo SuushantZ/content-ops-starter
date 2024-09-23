@@ -73,7 +73,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Xcelerate Warrior Certificate
       color: text-dark
     subtitle: Be in good company
     text: >
