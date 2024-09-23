@@ -76,9 +76,7 @@ sections:
       text: Xcelerate Warrior Certificate
       color: text-dark
     subtitle: tata consultancy services
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Button
         label: Get started
