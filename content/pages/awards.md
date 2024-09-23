@@ -80,7 +80,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/War_1.png
       altText: Dope design preview
     badge:
       type: Badge
