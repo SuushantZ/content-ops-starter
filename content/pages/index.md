@@ -316,10 +316,13 @@ sections:
       - type: FeaturedItem
         title: Bias Toward Action
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          I believe in the importance of moving projects forward. Instead of
+          overanalyzing or getting bogged down in details, I prioritize what can
+          be done today to make progress. This mindset has allowed me to
+          maintain momentum even on large, complex projects, ensuring consistent
+          delivery.
         image:
           type: ImageBlock
           altText: Featured icon three
