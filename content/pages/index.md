@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: DOER MINDSET
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Extensive Technical Expertise
