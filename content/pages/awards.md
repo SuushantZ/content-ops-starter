@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Con_MasterNew.png
+      url: /images/Con_Mas.png
       altText: Fun feature preview
     badge:
       type: Badge
