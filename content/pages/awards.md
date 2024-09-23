@@ -12,15 +12,6 @@ sections:
       You are an inspiring role model to your colleagues.
       Thank you for your dedication and commitment.
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
