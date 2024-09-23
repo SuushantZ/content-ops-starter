@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: WHAT YOU WILL GET
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Extensive Technical Expertise
