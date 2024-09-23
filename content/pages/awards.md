@@ -8,10 +8,9 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Subtitle goes here
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      You are an inspiring role model to your colleagues.
+      Thank you for your dedication and commitment.
     actions:
       - type: Button
         label: Get started
