@@ -249,7 +249,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Doer Mindset
       color: text-dark
       styles:
         self:
