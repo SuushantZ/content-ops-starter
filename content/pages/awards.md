@@ -11,16 +11,7 @@ sections:
     text: |
       You are an inspiring role model to your colleagues.
       Thank you for your dedication and commitment.
-    actions:
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Con_Master.png
