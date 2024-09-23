@@ -8,9 +8,7 @@ sections:
       text: Contextual Master Award
       color: text-dark
     subtitle: tata consultancy services
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions: []
     media:
       type: ImageBlock
