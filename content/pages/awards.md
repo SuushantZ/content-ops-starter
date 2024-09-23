@@ -42,7 +42,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Star Team Award
       color: text-dark
     subtitle: tata consultancy services
     text: ''
