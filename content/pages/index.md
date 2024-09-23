@@ -289,10 +289,13 @@ sections:
       - type: FeaturedItem
         title: Proactive Approach to Challenges
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          I don’t just identify problems; I take ownership of them. Whether it’s
+          implementing a new system, refactoring code, or improving team
+          processes, I’m driven to execute solutions that are practical and
+          sustainable. My track record in delivering projects on time is a
+          testament to my focus on results.
         image:
           type: ImageBlock
           altText: Featured icon two
