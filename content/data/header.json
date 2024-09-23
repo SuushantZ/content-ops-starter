@@ -63,8 +63,8 @@
         },
         {
             "type": "Link",
-            "label": "AWARDS / RECOGNITIONS",
-            "altText": "AWARDS / RECOGNITIONS",
+            "label": "AWARDS & RECOGNITIONS",
+            "altText": "AWARDS & RECOGNITIONS",
             "url": "/awards",
             "showIcon": false,
             "icon": "arrowRight",
