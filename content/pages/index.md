@@ -227,7 +227,7 @@ sections:
             textAlign: left
     actions: []
     badge:
-      label: What you will get
+      label: Why should you hire me
       color: text-primary
       styles:
         self:
