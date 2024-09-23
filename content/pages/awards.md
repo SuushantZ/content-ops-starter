@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contextual Master Award
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: Tata Consultancy Services
     text: |
       You are an inspiring role model to your colleagues.
       Thank you for your dedication and commitment.
