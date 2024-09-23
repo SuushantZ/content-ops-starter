@@ -341,10 +341,12 @@ sections:
       - type: FeaturedItem
         title: Hands-On Leadership
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          While I’m experienced in leading teams, I also stay involved at the
+          ground level, ensuring that I lead by example. When my team hits
+          roadblocks, I’m right there alongside them, offering support and
+          hands-on guidance to get past challenges. My willingness to roll up my
+          sleeves and work alongside my team fosters trust and accountability.
         image:
           type: ImageBlock
           altText: Placeholder text
