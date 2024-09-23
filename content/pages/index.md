@@ -227,7 +227,7 @@ sections:
             textAlign: left
     actions: []
     badge:
-      label: HI
+      label: What you will get
       color: text-primary
       styles:
         self:
