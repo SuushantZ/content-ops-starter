@@ -25,7 +25,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Star of the Quarter Award
       color: text-dark
     subtitle: tata consultancy services
     text: ''
