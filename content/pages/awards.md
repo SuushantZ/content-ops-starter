@@ -32,7 +32,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Star_1.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
