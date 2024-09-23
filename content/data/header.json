@@ -63,17 +63,6 @@
         },
         {
             "type": "Link",
-            "label": "AWARDS / RECOGNITIONS",
-            "altText": "AWARDS / RECOGNITIONS",
-            "url": "/awards",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "LINKEDIN",
             "altText": "LinkedIn",
             "url": "/https://www.linkedin.com/in/sushant-zanzane",
