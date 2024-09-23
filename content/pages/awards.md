@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contextual Master Award
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: tata consultancy services
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
