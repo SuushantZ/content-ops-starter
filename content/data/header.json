@@ -75,7 +75,7 @@
         {
             "type": "Link",
             "label": "AWARDS & RECOGNITIONS",
-            "altText": "",
+            "altText": "AWARDS & RECOGNITIONS",
             "url": "/awards",
             "showIcon": false,
             "icon": "arrowRight",
