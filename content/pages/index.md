@@ -257,7 +257,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Action-Oriented Problem Solver
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
