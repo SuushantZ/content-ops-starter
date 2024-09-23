@@ -63,17 +63,6 @@
         },
         {
             "type": "Link",
-            "label": "LINKEDIN",
-            "altText": "LinkedIn",
-            "url": "/https://www.linkedin.com/in/sushant-zanzane",
-            "showIcon": true,
-            "icon": "linkedin",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "AWARDS & RECOGNITIONS",
             "altText": "AWARDS & RECOGNITIONS",
             "url": "/awards",
@@ -81,6 +70,17 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "LINKEDIN",
+            "altText": "LinkedIn",
+            "url": "/https://www.linkedin.com/in/sushant-zanzane",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
             "elementId": ""
         }
     ],
