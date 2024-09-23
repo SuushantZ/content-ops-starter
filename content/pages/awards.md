@@ -14,7 +14,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Con_Master.png
+      url: /images/Con_MasterNew.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
     elementId: ''
