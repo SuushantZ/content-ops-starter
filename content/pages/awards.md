@@ -135,7 +135,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Feedback Enabler Certificate
       color: text-dark
     subtitle: Increase your reach
     text: >
