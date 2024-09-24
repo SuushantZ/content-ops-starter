@@ -117,9 +117,7 @@ sections:
       text: Feedback Enthusiast Certificate
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Button
         label: Get started
