@@ -157,7 +157,7 @@ sections:
       type: TitleBlock
       text: Certificate of Appreciation
       color: text-dark
-    subtitle: Be in good company
+    subtitle: tata consultancy services
     text: ''
     actions: []
     media:
