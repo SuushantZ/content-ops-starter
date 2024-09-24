@@ -155,7 +155,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Certificate of Appriciation
+      text: Certificate of Appreciation
       color: text-dark
     subtitle: Be in good company
     text: ''
