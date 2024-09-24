@@ -96,7 +96,7 @@ sections:
       type: TitleBlock
       text: Feedback Influencer Certificate
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: tata consultancy services
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
