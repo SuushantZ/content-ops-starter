@@ -138,9 +138,7 @@ sections:
       text: Feedback Enabler Certificate
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - type: Button
         label: Get started
