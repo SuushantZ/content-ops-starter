@@ -1,6 +1,6 @@
 ---
 title: ''
-slug: /education
+slug: /
 numOfPostsPerPage: 12
 enableSearch: true
 topSections: []
