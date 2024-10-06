@@ -79,7 +79,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: BS-CS
-        details: per month
+        details: Computer Science
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
