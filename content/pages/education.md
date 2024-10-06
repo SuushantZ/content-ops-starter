@@ -58,7 +58,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/savitribai-phule-pune-univiversity-logo-320x240.webp
+          url: /images/images.png
           altText: Pricing plan 2
         actions:
           - type: Button
