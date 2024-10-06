@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: MS-IT
-        details: No credit card required
+        details: Information Technology
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
