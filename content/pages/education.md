@@ -91,7 +91,7 @@ sections:
           - Feature five
         image:
           type: ImageBlock
-          url: /images/large_Shivaji_University_Kolhapur_79c61e19ff_6ebf654d30.png
+          url: /images/images (1).png
           altText: Pricing plan 3
         actions:
           - type: Button
