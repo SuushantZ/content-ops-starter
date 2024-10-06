@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Whitagram-Image.webp
           altText: Pricing plan 1
         actions:
           - type: Button
