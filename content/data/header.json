@@ -76,7 +76,7 @@
             "type": "Link",
             "label": "LINKEDIN",
             "altText": "LinkedIn",
-            "url": "/https://www.linkedin.com/in/sushant-zanzane",
+            "url": "https://www.linkedin.com/in/sushant-zanzane",
             "showIcon": true,
             "icon": "linkedin",
             "iconPosition": "left",
